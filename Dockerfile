@@ -3,7 +3,7 @@ MAINTAINER Odditive "hello@odditive.com"
 # Here we use Odditive's fork of micropython. Feel free to change it to the official one:
 # https://github.com/micropython/micropython.git
 
-ARG REPOSITORY=https://github.com/odditive/micropython
+ARG REPOSITORY=https://github.com/DavidTou/micropython
 ARG BRANCH=master
 ARG VERSION=5c88c5996dbde6208e3bec05abc21ff6cd822d26
 
